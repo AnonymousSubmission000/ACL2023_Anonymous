@@ -1,1 +1,1 @@
-This repository contains the pre-trained model for our AAAI2023 anonymous submission.
+This repository contains the pre-trained model for our ACL2023 anonymous submission.
